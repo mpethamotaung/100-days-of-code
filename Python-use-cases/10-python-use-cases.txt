@@ -1,0 +1,40 @@
+1. Web Development
+    web-applications with frameworks such as Django, Flask and Pyramid
+
+2. Game Development
+    interactive games with PySoy (3D game engine)
+    functionality and library with PyGAME
+
+3. Machine Learning and Artificial Intelligence
+    functions based on the data stored
+    algorithms that enable computer self Learning
+    All this with Pandas, Scikit-Learn, NumPy
+
+4. Data Science and Data Visualization
+    Data is money
+    extraction of knowledge from data
+    all this with Pandas and NumPy
+    Visualize with Matplotlib and Seaborn
+
+5. Desktop GUI
+    desktop applications
+    develop user interfaces with Tkinter (wxWidgets, Kivy, PYQT)
+    create applications such as calculators, to-do apps or much more complex apps
+
+6. Web scraping applications
+    pulling large amoutns of data from websites which can help with price comparison, job listings, research and Development
+    BeautifulSoup for pulling data from websites ( webpages -> web scraping -> structured data)
+
+7. Business applications
+    applications that are scalable, extensible and easily readable with Tryton
+
+8. Audio and Video applications
+    applications that can multi-task and aslo output media (i.e. TimPlayer, Cplay)
+    better stability and performace in comparison to other media players
+
+9. CAD applications
+    computer-aided desinging with Fandago which helps with objects and their presentation, functions.
+
+10. Embedded applications
+    embedded C software for embedded applications. higher-level applications on small devices that can compute python
+    (i.e. Raspberry Pi)
